@@ -1,2 +1,2 @@
 # choco-bot
-A discord utility bot.
+A Discord utility bot.
